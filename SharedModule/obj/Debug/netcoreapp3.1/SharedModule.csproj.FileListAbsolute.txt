@@ -1,0 +1,10 @@
+D:\Projects\Inventory\Inventory\SharedModule\bin\Debug\netcoreapp3.1\SharedModule.deps.json
+D:\Projects\Inventory\Inventory\SharedModule\bin\Debug\netcoreapp3.1\SharedModule.dll
+D:\Projects\Inventory\Inventory\SharedModule\bin\Debug\netcoreapp3.1\SharedModule.pdb
+D:\Projects\Inventory\Inventory\SharedModule\obj\Debug\netcoreapp3.1\SharedModule.csproj.AssemblyReference.cache
+D:\Projects\Inventory\Inventory\SharedModule\obj\Debug\netcoreapp3.1\SharedModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Inventory\Inventory\SharedModule\obj\Debug\netcoreapp3.1\SharedModule.AssemblyInfoInputs.cache
+D:\Projects\Inventory\Inventory\SharedModule\obj\Debug\netcoreapp3.1\SharedModule.AssemblyInfo.cs
+D:\Projects\Inventory\Inventory\SharedModule\obj\Debug\netcoreapp3.1\SharedModule.csproj.CoreCompileInputs.cache
+D:\Projects\Inventory\Inventory\SharedModule\obj\Debug\netcoreapp3.1\SharedModule.dll
+D:\Projects\Inventory\Inventory\SharedModule\obj\Debug\netcoreapp3.1\SharedModule.pdb

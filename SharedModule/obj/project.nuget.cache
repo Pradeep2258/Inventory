@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+VR2+qKToPMs3YO/wSGgvof1DeL9D9POBcYsl99EpW7V7L4af7NbNIGrpjQZmKSw0zxmn3+xgoguMnJ6FwYwJg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Inventory\\Inventory\\SharedModule\\SharedModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91797\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
