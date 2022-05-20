@@ -66,6 +66,8 @@ namespace Inventory.Services.Implementation
             {
                 if (claimDetails.UserRole == 2)
                 {
+                    //testing chnages
+
                     result = _productRepo.GetProductsRepo(filter);
                 }
                 else
